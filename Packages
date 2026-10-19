@@ -1,0 +1,16 @@
+Package: com.ban.devicebackup
+Name: iBack
+Description: Per-app backup, restore and wipe utility.
+Maintainer: iBack
+Author: iBack
+Section: Utilities
+Depends: firmware (>= 15.0), ldid
+Architecture: iphoneos-arm64
+Version: 1.2-7+debug
+Installed-Size: 1204
+Filename: debs_Shift/com.ban.devicebackup_1.2-7+debug.deb
+Size: 347734
+MD5sum: 56ab4b2c8ee6632a61e6d34714ff98cb
+SHA1: 01e028adde66edf97615d2d0ab634c509bec747c
+SHA256: 89d5cc10118aa6959b6408f5fcfd854be9c84df545d48d925faa34d592cd47ee
+
